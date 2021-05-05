@@ -1,0 +1,12 @@
+canvas{
+animation-name: ike;
+animation-duration:4s;
+animation-iteration-count: infinite;
+}
+@keyframes ike{
+from{box-shadow: 5px 5px 18px white;}
+to{box-shadow: 5px 5px 18px gold;}
+}
+.btn-primary:hover{
+background-color: olive;
+}
